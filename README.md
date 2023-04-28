@@ -1,4 +1,4 @@
-<b>Secrets app</b>
+###Secrets app
 
 This application allows anyone to register and login directly through their previous account or sign with Google. 
 Their email is stored in a mongodb database and their password are hashed.
